@@ -22,11 +22,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnewaz2004&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shahnewaz2004&icon=9&color=2)](https://visitcount.itsvg.in)
 
 ### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Shahnewaz.rakib.2004) 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shahnewaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahnewaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahnewaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnewaz" height="30" width="40" /></a>
