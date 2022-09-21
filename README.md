@@ -28,5 +28,5 @@
 <a href="https://twitter.com/Shahnewaz2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahnewaz" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shahnewaz-rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahnewaz" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shahnewazrakib.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahnewaz.rakib.2004" height="30" width="40" /></a>
-<a href="https://discord.gg/#7300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7300" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1002454120449462292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7300" height="30" width="40" /></a>
 </p>
